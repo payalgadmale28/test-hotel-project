@@ -100,7 +100,7 @@ CREATE TABLE `customerinfo` (
 
 LOCK TABLES `customerinfo` WRITE;
 /*!40000 ALTER TABLE `customerinfo` DISABLE KEYS */;
-INSERT INTO `customerinfo` VALUES ('123','1','1','1','1111','1'),('4','4','4','4','4','4'),('a','a','a','a','a','a'),('payal','payal','payal','payal@gmail.com','01222222','Dhaka, Bangladesh');
+INSERT INTO `customerinfo` VALUES ('123','1','1','1','1111','1'),('4','4','4','4','4','4'),('a','a','a','a','a','a'),('payal','payal','payal','payal@gmail.com','01222222','Pen, Maharastra');
 /*!40000 ALTER TABLE `customerinfo` ENABLE KEYS */;
 UNLOCK TABLES;
 
